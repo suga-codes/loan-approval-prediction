@@ -11,7 +11,7 @@ approved based on applicant income and loan amount.
 ---
 
 ## 📓 Google Colab Notebook (Model Training)
-https://colab.research.google.com/xxxx
+https://colab.research.google.com/drive/1j61-w3WeO3RdxSyAQnFVXEKGcif7Dr12#scrollTo=sDcftBd0hHBs
 
 ---
 
